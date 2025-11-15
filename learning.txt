@@ -1,4 +1,4 @@
-course reflection
+What I have learned from this course
 
 So far through this course i have been able to do the following.
 1. create a repository
