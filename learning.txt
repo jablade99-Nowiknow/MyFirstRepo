@@ -1,0 +1,9 @@
+course reflection
+
+So far through this course i have been able to do the following.
+1. create a repository
+2. Clone a repository
+3. Fork a repository
+4. Add a file to a repository
+5. Create a branch
+6. create a pull request
